@@ -53,3 +53,12 @@ Livlingo/
 
 2. **Send Messages:**
    - Type your message in the input box and click "Send".
+
+## Interface
+![Screenshot 2024-07-13 005508](https://github.com/user-attachments/assets/eb8ea48a-18e3-4ea7-9c1d-e8346dd944cb)
+
+![Screenshot 2024-07-13 005614](https://github.com/user-attachments/assets/bbc1485b-e26d-4271-8ab2-14c46162c22c)
+
+
+
+
